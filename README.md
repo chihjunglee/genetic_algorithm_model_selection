@@ -3,5 +3,6 @@ Implement Genetic Algorithm to select the best prediction models combination
 
 genetic algorithm package: pyeasyga
 
-### Setup
+### Requirement
 `pip install pyeasyga`
+
